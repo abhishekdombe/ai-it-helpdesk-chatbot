@@ -12,13 +12,15 @@ creates support tickets, and escalates to humans when needed.
 ## 🛠️ Tech Stack (planned)
 Python · LLM API · LangChain · ChromaDB · Streamlit · SQLite
 
-## 🗺️ Roadmap
-- [ ] Week 1: Python basics
-- [ ] Week 2: APIs & first AI call
-- [ ] Week 3: Chatbot + web UI
-- [ ] Week 4: Knowledge base (RAG)
-- [ ] Week 5: Tickets & handoff
-- [ ] Week 6: Deploy & polish
+## ▶️ How to Run
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+python src/bot.py
+```
 
-## 📅 Progress
-See [LEARNING_LOG.md](LEARNING_LOG.md)
+## 🧪 Run Tests
+```bash
+python -m pytest
+```
