@@ -1,0 +1,27 @@
+[
+  {
+    "topic": "password",
+    "keywords": ["password", "forgot", "locked"],
+    "answer": "To reset your password, go to the self-service portal and click 'Forgot password'. If your account is locked, wait 15 minutes or contact IT."
+  },
+  {
+    "topic": "vpn",
+    "keywords": ["vpn", "remote access"],
+    "answer": "Open the VPN client, select your company server and log in with your work credentials. Restart the client if it hangs."
+  },
+  {
+    "topic": "wifi",
+    "keywords": ["wifi", "wi-fi", "internet", "network"],
+    "answer": "Turn Wi-Fi off and on, forget the network, then reconnect. If it still fails, restart your laptop."
+  },
+  {
+    "topic": "printer",
+    "keywords": ["printer", "print"],
+    "answer": "Check the printer is on and has paper, then remove and re-add it under Settings > Printers."
+  },
+  {
+    "topic": "email",
+    "keywords": ["email", "outlook", "mail"],
+    "answer": "Restart Outlook. If emails are not syncing, check your internet connection and try Outlook on the web."
+  }
+]
